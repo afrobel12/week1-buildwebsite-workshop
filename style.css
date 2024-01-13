@@ -57,3 +57,10 @@ section{
 a{
     color: white;
 }
+footer{
+    display: flex;
+    color: rgb(132, 128, 128);
+    background-color: black;
+    justify-content: center;
+    width: 100vw;
+}
